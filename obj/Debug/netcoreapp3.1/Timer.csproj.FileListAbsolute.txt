@@ -1,0 +1,13 @@
+C:\dev\Timer\bin\Debug\netcoreapp3.1\Timer.exe
+C:\dev\Timer\bin\Debug\netcoreapp3.1\Timer.deps.json
+C:\dev\Timer\bin\Debug\netcoreapp3.1\Timer.runtimeconfig.json
+C:\dev\Timer\bin\Debug\netcoreapp3.1\Timer.runtimeconfig.dev.json
+C:\dev\Timer\bin\Debug\netcoreapp3.1\Timer.dll
+C:\dev\Timer\bin\Debug\netcoreapp3.1\Timer.pdb
+C:\dev\Timer\obj\Debug\netcoreapp3.1\Timer.csprojAssemblyReference.cache
+C:\dev\Timer\obj\Debug\netcoreapp3.1\Timer.AssemblyInfoInputs.cache
+C:\dev\Timer\obj\Debug\netcoreapp3.1\Timer.AssemblyInfo.cs
+C:\dev\Timer\obj\Debug\netcoreapp3.1\Timer.csproj.CoreCompileInputs.cache
+C:\dev\Timer\obj\Debug\netcoreapp3.1\Timer.dll
+C:\dev\Timer\obj\Debug\netcoreapp3.1\Timer.pdb
+C:\dev\Timer\obj\Debug\netcoreapp3.1\Timer.genruntimeconfig.cache
